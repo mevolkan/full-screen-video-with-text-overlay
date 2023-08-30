@@ -1,0 +1,19 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "full-screen-video/full-screen-video-with-text-overlay",
+	"version": "0.1.0",
+	"title": "Full screen video with text overlay",
+	"category": "design",
+	"icon": "smiley",
+	"description": "Full screen video with text overlay",
+	"example": {},
+	"supports": {
+		"html": false
+	},
+	"textdomain": "full-screen-video-with-text-overlay",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css",
+	"viewScript": "file:./view.js"
+}
